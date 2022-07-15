@@ -1,0 +1,22 @@
+#box{
+    background-color: #D61C4E;
+    height: 300px;
+    width: 700px;
+    visibility: hidden;
+}
+
+body{
+    background-color: #293462;
+}
+
+#box.show{
+    visibility: visible;
+}
+
+i{
+    margin-top: 30px;
+    float: right;
+}
+button{
+    background-color: #FFF80A;
+}
